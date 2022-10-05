@@ -1,5 +1,8 @@
 # 💫 About Me:
-HTML CSS and JavaScript
+
+
+
+👀 I’m currently learning ... HTML,  CSS, React   and  JavaScript
 
 
 ## 🌐 Socials:
