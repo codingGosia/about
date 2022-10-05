@@ -1,8 +1,10 @@
 # 💫 About Me:
 
+🔭 I’m currently working on projects with HTML, CSS and JavaScript
 
+📕 I’m currently learning more of Javascript, React and RestAPI 
 
-📕💻👀 I’m currently learning everything about HTML, CSS, React and JavaScript
+👯 I’m looking to collaborate on projects with other developers
 
 
 ## 🌐 Socials:
