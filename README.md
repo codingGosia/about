@@ -2,7 +2,7 @@
 
 
 
-👀 I’m currently learning everything about HTML, CSS, React and JavaScript
+📕💻👀 I’m currently learning everything about HTML, CSS, React and JavaScript
 
 
 ## 🌐 Socials:
