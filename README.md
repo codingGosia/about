@@ -4,7 +4,7 @@ My name is Gosia and I am an aspiring web developer looking forward to advance m
 
 🔭 I’m currently working on projects with HTML, CSS and JavaScript
 
-📕 I’m currently learning more of Javascript, React and RestAPI 
+📕 Learning more of Javascript, React and RestAPI 
 
 👯 I’m looking to collaborate on projects with other developers
 
