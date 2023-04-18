@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-My name is Gosia and I am an aspiring web developer looking forward to advance my career in web development and build inpiring visual platforms.
+My name is Gosia and I am an aspiring web developer looking forward to advancing my career in web development and building inspiring visual platforms.
 
 🔭 I’m currently working on projects with HTML, CSS and JavaScript
 
